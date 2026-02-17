@@ -1,4 +1,4 @@
-package com.vacancybot.model;
+package model;
 
 import lombok.Data;
 import lombok.Builder;
